@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-gradientframe
 Version:	0.2
-Release:	2
+Release:	3
 Summary:	Simple gradient frames around objects
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gradientframe
