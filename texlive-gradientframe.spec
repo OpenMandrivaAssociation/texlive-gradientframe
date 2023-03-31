@@ -1,6 +1,6 @@
 Name:		texlive-gradientframe
 Version:	21387
-Release:	1
+Release:	2
 Summary:	Simple gradient frames around objects
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gradientframe
