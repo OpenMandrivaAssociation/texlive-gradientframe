@@ -3,7 +3,7 @@ Version:	21387
 Release:	2
 Summary:	Simple gradient frames around objects
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gradientframe
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gradientframe
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gradientframe.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gradientframe.doc.r%{version}.tar.xz
